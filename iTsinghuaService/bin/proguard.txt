@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:41
+-keep class com.nexd.itsinghua.service.BootBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.nexd.itsinghua.service.WiFiService { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.nexd.itsinghua.service.iTsinghuaMainActivity { <init>(...); }
+
